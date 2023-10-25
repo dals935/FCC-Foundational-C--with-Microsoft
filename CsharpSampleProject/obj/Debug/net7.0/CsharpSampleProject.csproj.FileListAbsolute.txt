@@ -1,0 +1,14 @@
+D:\vscode_projects\CsharpSampleProject\bin\Debug\net7.0\CsharpSampleProject.exe
+D:\vscode_projects\CsharpSampleProject\bin\Debug\net7.0\CsharpSampleProject.deps.json
+D:\vscode_projects\CsharpSampleProject\bin\Debug\net7.0\CsharpSampleProject.runtimeconfig.json
+D:\vscode_projects\CsharpSampleProject\bin\Debug\net7.0\CsharpSampleProject.dll
+D:\vscode_projects\CsharpSampleProject\bin\Debug\net7.0\CsharpSampleProject.pdb
+D:\vscode_projects\CsharpSampleProject\obj\Debug\net7.0\CsharpSampleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode_projects\CsharpSampleProject\obj\Debug\net7.0\CsharpSampleProject.AssemblyInfoInputs.cache
+D:\vscode_projects\CsharpSampleProject\obj\Debug\net7.0\CsharpSampleProject.AssemblyInfo.cs
+D:\vscode_projects\CsharpSampleProject\obj\Debug\net7.0\CsharpSampleProject.csproj.CoreCompileInputs.cache
+D:\vscode_projects\CsharpSampleProject\obj\Debug\net7.0\CsharpSampleProject.dll
+D:\vscode_projects\CsharpSampleProject\obj\Debug\net7.0\refint\CsharpSampleProject.dll
+D:\vscode_projects\CsharpSampleProject\obj\Debug\net7.0\CsharpSampleProject.pdb
+D:\vscode_projects\CsharpSampleProject\obj\Debug\net7.0\CsharpSampleProject.genruntimeconfig.cache
+D:\vscode_projects\CsharpSampleProject\obj\Debug\net7.0\ref\CsharpSampleProject.dll
