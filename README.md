@@ -1,2 +1,2 @@
-# FCC-Foundational-C--with-Microsoft
+# FCC-Foundational-C#-with-Microsoft
 Collection of programs to complete the certification
